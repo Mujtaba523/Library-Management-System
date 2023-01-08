@@ -4,9 +4,9 @@ This Library Management System is a comprehensive system for managing the operat
 # Features
 Some of the key features of the Library Management System include:
 
-Cataloging books: Librarians can use the system to add new books to the library's catalog, including information such as the title, author, and publication year. They can also use the system to update and delete existing entries in the catalog.
+* Cataloging books: Librarians can use the system to add new books to the library's catalog, including information such as the title, author, and publication year. They can also use the system to update and delete existing entries in the catalog.
 
-Checking out and returning books: Patrons can use the system to search for and request books, and librarians can use it to check out books to patrons and mark them as returned when they are brought back to the library.
+* Checking out and returning books: Patrons can use the system to search for and request books, and librarians can use it to check out books to patrons and mark them as returned when they are brought back to the library.
 
-Searching books: Users can search the books on the basis of title, author or publication year.
+* Searching books: Users can search the books on the basis of title, author or publication year.
 
